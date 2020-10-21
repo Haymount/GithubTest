@@ -4,7 +4,7 @@
 void main(){
 	Wifi();
 	printf("Afstand er :%f\n", Afstand());
-	Timer(200);
+	Timer(10);
 }
 
 void Wifi(){
